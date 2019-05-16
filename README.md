@@ -60,10 +60,13 @@ Android Development
   
   ## API Documentation
   
-  Please refer to the Appendix to view our API Documentation or click [here](Appendex/DOCUMENTATION)
+  Please refer to the Appendix to view our API Documentation or click [here](Appendix/DOCUMENTATION)
   
   ## Web Server
   If your interested in trying our application please follow the following instructions or visit our [website](queri499.herokuapp.com)
+  
+  ## Google Slides
+  Our presentation slides can be found [here](https://docs.google.com/presentation/d/15MtLGrTOnDdzO2ulvzZPYesr4ojI3RM368-6TI3KpYw/edit?usp=sharing)
   
   ## Contact Us
   For any further questions or comments please contact us at projectqueri499@gmail.com
