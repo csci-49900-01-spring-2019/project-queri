@@ -23,6 +23,8 @@ We fulfilled the security requirements for the web application with a email veri
 
 ## Conclusion
 
+For the web application, we have struggled with using Angular 7. Angular 7 had a huge learning curve that our group had to learn through. With the huge learning curve of Angular 7, we struggled with many things to develop our web application such as creating a custom username for users. We also learned how to work with a group as many of us did not ever code in a group before. We learned that time management is very important in a group and that communication is key to success in a group. 
+
 ## Authors
 
 * Angel Checo
