@@ -32,6 +32,7 @@ Web Development
 * Angel Checo
 * Kevin Yang
 * Ramela Ramnauth
+
 Android Development
 * Svetleen Guerrier
 
