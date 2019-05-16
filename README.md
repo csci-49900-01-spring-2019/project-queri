@@ -62,4 +62,7 @@ Android Development
   ## Web Server
   If your interested in trying our application please follow the following instructions or visit our [website](queri499.herokuapp.com)
   
+  ## Contact Us
+  For any further questions or comments please contact us at projectqueri499@gmail.com
+  
   
