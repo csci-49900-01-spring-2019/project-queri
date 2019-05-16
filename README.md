@@ -9,7 +9,7 @@ Queri is an application where users can ask and answer questions. Users have the
 
 ### Introduction
 
-#### State the Problem
+#### * State the Problem
 Queri is a discussion tool where users can ask or answer questions with the option of staying public or anonymous. The objective is to eliminate any biased towards other users and have users ask questions without them having feeling safe. Users should not be afraid of asking a question just because their posts can be traced or found by another person. On Reddit, users can see the responses to a post without answering the post so their answers may get swayed. We want to prevent that as we want users to get personal responses not swayed by other user responses.
 
 #### State your Contributions
