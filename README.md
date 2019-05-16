@@ -60,7 +60,7 @@ Android Development
   
   ## API Documentation
   
-  Please refer to the Appendix to view our API Documentation or click [here](https://github.com/csci-49900-01-spring-2019/project-queri/blob/master/Apendix/API%20DOCUMENTATION) 
+  Please refer to the Appendix to view our API Documentation or click [here](Appendex/DOCUMENTATION)
   
   ## Web Server
   If your interested in trying our application please follow the following instructions or visit our [website](queri499.herokuapp.com)
