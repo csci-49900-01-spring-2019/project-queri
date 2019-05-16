@@ -28,9 +28,11 @@ For the web application, we have struggled with using Angular 7. Angular 7 had a
 
 ## Authors
 
+Web Development
 * Angel Checo
 * Kevin Yang
 * Ramela Ramnauth
+Android Development
 * Svetleen Guerrier
 
 ## References
