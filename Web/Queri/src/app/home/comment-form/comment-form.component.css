@@ -1,0 +1,21 @@
+.form-group{
+    background-color: linear-gradient(rgb(0,0,50),rgb(90,90,120));
+    text-align: center;
+    
+}
+
+#comment{
+    background-color: white;
+    border-color:darkslategrey;
+    color: black;
+    font-size: 20px;
+    height: 200px;
+    max-width: 500;
+    resize: none;
+}
+
+.btn-primary{
+    background-color: red;
+    border-color: darkcyan; 
+    color: white;
+}

@@ -1,0 +1,22 @@
+.archive-page{
+    text-align: center;
+    margin: auto;
+    width: 97%;
+    background-image: white;;
+    padding: 10px;
+    z-index: 500
+
+}
+
+.voting{
+    background-image:linear-gradient(rgb(207, 94, 207), white);
+    color: black;
+    height: 100vh;
+    padding-bottom: 25px;
+    overflow: scroll;
+    display:grid;
+    grid-gap: 20px;
+    padding: 20px;
+    padding-top: 100px;
+}
+

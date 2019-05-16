@@ -1,0 +1,39 @@
+#question{
+    
+    /*background-color: white;*/
+    /*
+    background-color:rgb(219, 101, 65);
+    border-color: rgba(255, 128, 54, 0.75);
+    */
+    background-color: transparent;
+    border-color:  #210e33;
+    border-width: 2px;
+    border-radius: 12px;
+    border-width: .5px;
+    color: white;
+    font-size: 40px;
+    height: auto !important;
+    max-width: 500;
+    resize: none;
+    padding: 1 1 1 1;
+    resize: none;
+    min-height: 400px;
+   
+}
+.title{
+    color:  rgb(0, 0, 0);
+    font-size: 45px;
+}
+.btn-primary{
+    /*
+    background-color: #FAD744;
+    border-color: darkcyan; 
+    color: #Ef5455;
+    */
+
+    background-color: rgb(0,130,190);
+    /*color: #FAD744;*/
+    color: white;
+}
+
+
