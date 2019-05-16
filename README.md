@@ -58,3 +58,8 @@ Android Development
   ## API Documentation
   
   Please refer to the Appendix to view our API Documentation.
+  
+  ## Web Server
+  If your interested in trying our application please follow the following instructions or visit our [website](queri499.herokuapp.com)
+  
+  
